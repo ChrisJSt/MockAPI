@@ -35,7 +35,7 @@
    "tollingServiceStartDate": "20190730120000",
    "tollingServiceEndDate": "99991231235959"
 },
-  {
+{
    "techResourceId" : "CEDL678_ON",
    "customerId": "12323213232",
    "collectiveBillingAccountNo": "0",
