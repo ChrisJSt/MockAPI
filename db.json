@@ -1,38 +1,3 @@
 {
-  "customers": [
-  {
-   "customerId": "0000000056",
-   "collectiveBillingAccountNo": "0",
-   "billingAccountNo": "100000000358",
-   "tollingServiceId": "00000000000009001050",
-   "tollingDeviceId": "ON_CKCD266",
-   "idType": "PL",
-   "referenceTollingDeviceId": "",
-   "billingCategory": "EMP",
-   "customerType": "1",
-   "tollingServiceStatus": "ATTACHED",
-   "classOverRide": "0",
-   "classOverRideExpDate": "0",
-   "sensitiveTollingDevice": "",
-   "vtcSuppressionIndicator": "N",
-   "vtcSuppressionExpDate": "99991231",
-   "vehicleMake": "HOND",
-   "vehicleModel": "",
-   "vehicleYear": "2019",
-   "vehicleColor": "BLUE",
-   "vehicleBodyType": "",
-   "cldBeTollingDevice": "N",
-   "cldBeVehicleMake": "",
-   "cldBeVehicleModel": "",
-   "cldBeVehicleYear": "",
-   "cldBeCustomer": "",
-   "customerCreationDate": "20200302",
-   "tollingDeviceSTEIndicator": "",
-   "tollingDeviceClass": "",
-   "registeredGrossWeight": "0",
-   "registrantType": "UNKNOWN",
-   "tollingServiceStartDate": "20190730120000",
-   "tollingServiceEndDate": "99991231235959"
-}
-  ]
+  "customers": "Chris"
 }
