@@ -1,5 +1,4 @@
 {
-  "customers": [
   {
    "customerId": "0000000056",
    "collectiveBillingAccountNo": "0",
@@ -34,5 +33,4 @@
    "tollingServiceStartDate": "20190730120000",
    "tollingServiceEndDate": "99991231235959"
 }
-  ]
 }
