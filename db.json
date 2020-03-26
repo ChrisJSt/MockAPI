@@ -33,9 +33,7 @@
    "registeredGrossWeight": "0",
    "registrantType": "UNKNOWN",
    "tollingServiceStartDate": "20190730120000",
-   "tollingServiceEndDate": "99991231235959",
-    "billCycleId" : "28",
-   "minDistanceHalfTripIndicator" : "Y"
+   "tollingServiceEndDate": "99991231235959"
 },
 {
    "techResourceId" : "CEDL678_ON",
@@ -70,9 +68,7 @@
    "registeredGrossWeight": "0",
    "registrantType": "UNKNOWN",
    "tollingServiceStartDate": "20190730120000",
-   "tollingServiceEndDate": "99991231235959",
-   "billCycleId" : "28",
-   "minDistanceHalfTripIndicator" : "Y"
+   "tollingServiceEndDate": "99991231235959"
 },
 {
    "techResourceId" : "E87519E1",
@@ -107,7 +103,9 @@
    "registeredGrossWeight": "0",
    "registrantType": "UNKNOWN",
    "tollingServiceStartDate": "20190730120000",
-   "tollingServiceEndDate": "99991231235959"
+   "tollingServiceEndDate": "99991231235959",
+   "billCycleId" : "28",
+   "minDistanceHalfTripIndicator" : "Y"
 }
   ]
 }
