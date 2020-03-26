@@ -107,9 +107,7 @@
    "registeredGrossWeight": "0",
    "registrantType": "UNKNOWN",
    "tollingServiceStartDate": "20190730120000",
-   "tollingServiceEndDate": "99991231235959",
-   "billCycleId" : "28",
-   "minDistanceHalfTripIndicator" : "Y"
+   "tollingServiceEndDate": "99991231235959"
 }
   ]
 }
