@@ -71,12 +71,12 @@
    "tollingServiceEndDate": "99991231235959"
 },
 {
-   "techResourceId" : "E87519E1",
+   "techResourceId" : "E87519DF",
    "customerId": "123456789",
    "collectiveBillingAccountNo": "0",
    "billingAccountNo": "100000000358",
    "tollingServiceId": "00000000000009001050",
-   "tollingDeviceId": "E87519E1",
+   "tollingDeviceId": "E87519DF",
    "idType": "TS",
    "referenceTollingDeviceId": "",
    "billingCategory": "EMP",
